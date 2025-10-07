@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Electrical Engineering student at Stevens Institute of Technology passionate about embedded systems, AI, and multi-agent systems. My projects explore how intelligent systems can interact with the physical world — from robotics and control theory to AI-driven automation and simulation.<br><br>🔧 Interests: Embedded systems, Edge AI, Control Systems, Multi-Agent Coordination<br>📚 Currently working on: AI-driven control frameworks & simulation tools<br>💡 Goal: To become an AI Architect building scalable, intelligent systems
+I'm an Computer Engineering student at Stevens Institute of Technology passionate about embedded systems, AI, and multi-agent systems. My projects explore how intelligent systems can interact with the physical world — from robotics and control theory to AI-driven automation and simulation.<br><br>🔧 Interests: Embedded systems, Edge AI, Control Systems, Multi-Agent Coordination<br>📚 Currently working on: AI-driven control frameworks & simulation tools<br>💡 Goal: To become an AI Architect building scalable, intelligent systems
 
 
 ## 🌐 Socials:
